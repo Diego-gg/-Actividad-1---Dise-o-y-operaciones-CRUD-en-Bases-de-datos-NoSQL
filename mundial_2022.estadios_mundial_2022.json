@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb915"
+  },
+  "País": "Qatar",
+  "Población (estimada)": 2881053,
+  "Grupo": "GRUPO A"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb916"
+  },
+  "País": "Inglaterra",
+  "Población (estimada)": 55982000,
+  "Grupo": "GRUPO B"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb917"
+  },
+  "País": "Argentina",
+  "Población (estimada)": 45376763,
+  "Grupo": "GRUPO C"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb918"
+  },
+  "País": "Francia",
+  "Población (estimada)": 67081000,
+  "Grupo": "GRUPO D"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb919"
+  },
+  "País": "Ecuador",
+  "Población (estimada)": 17643054,
+  "Grupo": "GRUPO A"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb91a"
+  },
+  "País": "Irán",
+  "Población (estimada)": 85000000,
+  "Grupo": "GRUPO B"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb91b"
+  },
+  "País": "Arabia Saudí",
+  "Población (estimada)": 34218169,
+  "Grupo": "GRUPO C"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb91c"
+  },
+  "País": "Australia",
+  "Población (estimada)": 25725000,
+  "Grupo": "GRUPO D"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb91d"
+  },
+  "País": "Senegal",
+  "Población (estimada)": 16743927,
+  "Grupo": "GRUPO A"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb91e"
+  },
+  "País": "Estados Unidos",
+  "Población (estimada)": 331002651,
+  "Grupo": "GRUPO B"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb91f"
+  },
+  "País": "México",
+  "Población (estimada)": 128932753,
+  "Grupo": "GRUPO C"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb920"
+  },
+  "País": "Dinamarca",
+  "Población (estimada)": 5822763,
+  "Grupo": "GRUPO D"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb921"
+  },
+  "País": "Holanda",
+  "Población (estimada)": 17474973,
+  "Grupo": "GRUPO A"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb922"
+  },
+  "País": "Gales",
+  "Población (estimada)": 3136068,
+  "Grupo": "GRUPO B"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb923"
+  },
+  "País": "Polonia",
+  "Población (estimada)": 37846611,
+  "Grupo": "GRUPO C"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb924"
+  },
+  "País": "Túnez",
+  "Población (estimada)": 11818619,
+  "Grupo": "GRUPO D"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb925"
+  },
+  "País": "España",
+  "Población (estimada)": 47431256,
+  "Grupo": "GRUPO E"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb926"
+  },
+  "País": "Bélgica",
+  "Población (estimada)": 11589623,
+  "Grupo": "GRUPO F"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb927"
+  },
+  "País": "Brasil",
+  "Población (estimada)": 213993437,
+  "Grupo": "GRUPO G"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb928"
+  },
+  "País": "Portugal",
+  "Población (estimada)": 10295000,
+  "Grupo": "GRUPO H"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb929"
+  },
+  "País": "Costa Rica",
+  "Población (estimada)": 5094118,
+  "Grupo": "GRUPO E"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb92a"
+  },
+  "País": "Canadá",
+  "Población (estimada)": 37742154,
+  "Grupo": "GRUPO F"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb92b"
+  },
+  "País": "Serbia",
+  "Población (estimada)": 8737371,
+  "Grupo": "GRUPO G"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb92c"
+  },
+  "País": "Ghana",
+  "Población (estimada)": 31072940,
+  "Grupo": "GRUPO H"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb92d"
+  },
+  "País": "Alemania",
+  "Población (estimada)": 83783942,
+  "Grupo": "GRUPO E"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb92e"
+  },
+  "País": "Marruecos",
+  "Población (estimada)": 36910560,
+  "Grupo": "GRUPO F"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb92f"
+  },
+  "País": "Suiza",
+  "Población (estimada)": 8654622,
+  "Grupo": "GRUPO G"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb930"
+  },
+  "País": "Uruguay",
+  "Población (estimada)": 3473730,
+  "Grupo": "GRUPO H"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb931"
+  },
+  "País": "Japón",
+  "Población (estimada)": 126476461,
+  "Grupo": "GRUPO E"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb932"
+  },
+  "País": "Croacia",
+  "Población (estimada)": 4105493,
+  "Grupo": "GRUPO F"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb933"
+  },
+  "País": "Camerún",
+  "Población (estimada)": 26545863,
+  "Grupo": "GRUPO G"
+},
+{
+  "_id": {
+    "$oid": "66415a1b27720921a50cb934"
+  },
+  "País": "Corea del Sur",
+  "Población (estimada)": 51269185,
+  "Grupo": "GRUPO H"
+}]
